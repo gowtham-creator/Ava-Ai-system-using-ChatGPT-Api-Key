@@ -2,10 +2,12 @@
 
 <img alt="Ava Ai System Using ChatGPT Api Key" src=".github/banner.svg" width="100%">
 
+Placeholder repository for an Ava AI experiment.
+
 <br>
 
 
-![updated](https://img.shields.io/badge/updated-2024--01--21-4C1D95?style=flat-square&labelColor=1E1B4B)
+![updated](https://img.shields.io/badge/updated-2026--11--04-4C1D95?style=flat-square&labelColor=1E1B4B)
 
 </div>
 
@@ -13,7 +15,7 @@
 
 ## What this is
 
-Source project. Also checked in: 1 markdown document. The sections below are read from the repository itself, 1 tracked files as of 2024-01-21.
+An empty placeholder: a single tracked file and no application code. The actual Ava.ai work lives in the TheAva-ai organisation.
 
 <div align="center">
 
