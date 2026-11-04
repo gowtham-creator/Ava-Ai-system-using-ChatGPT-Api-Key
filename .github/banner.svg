@@ -15,5 +15,5 @@
 <rect width="1280" height="320" fill="url(#glow)"/>
 <rect x="0" y="0" width="7" height="320" fill="#7C3AED"/>
 <text x="64" y="118" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="-1.4" fill="#ffffff">Ava Ai System Using ChatGPT Api Key</text>
-<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">Source project.</text>
+<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">Placeholder repository for an Ava AI experiment.</text>
 </svg>
